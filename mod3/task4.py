@@ -1,0 +1,1 @@
+print('yes' if (lambda s: s.count('0')==s.count('1'))(input()) else 'no')

@@ -1,0 +1,1 @@
+print(len(set(l:=list(map(int,input().split()))))!=len(l))
